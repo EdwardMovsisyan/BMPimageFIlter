@@ -1,0 +1,4 @@
+/home/edward/Documents/EdvardMovsisyan/Github/BMPimagefilter/CMakeFiles/main.dir
+/home/edward/Documents/EdvardMovsisyan/Github/BMPimagefilter/CMakeFiles/custom_clean.dir
+/home/edward/Documents/EdvardMovsisyan/Github/BMPimagefilter/CMakeFiles/edit_cache.dir
+/home/edward/Documents/EdvardMovsisyan/Github/BMPimagefilter/CMakeFiles/rebuild_cache.dir
